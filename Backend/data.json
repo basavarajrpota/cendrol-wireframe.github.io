@@ -1,0 +1,32 @@
+{
+  "content": [
+    {
+      "name": "Cement",
+      "price": "400",
+      "uom": "Bags",
+      "qty": "10",
+      "id": 1
+    },
+    {
+      "name": "Steel",
+      "price": "200",
+      "uom": "Kg's",
+      "qty": "10",
+      "id": 2
+    },
+    {
+      "name": "abc",
+      "price": "10000",
+      "uom": "kg",
+      "qty": "10",
+      "id": 3
+    },
+    {
+      "name": "Iron",
+      "price": "58",
+      "uom": "kg's",
+      "qty": "2000",
+      "id": 4
+    }
+  ]
+}
